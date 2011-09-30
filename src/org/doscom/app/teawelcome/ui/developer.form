@@ -1,0 +1,61 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="opaque" type="boolean" value="false"/>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="126" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="202" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="768" max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="1"/>
+              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="87" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Ubuntu" size="48" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Developer"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;&lt;head&gt;&#xa;&lt;title&gt;White Tea Doscom&lt;/title&gt;&#xa;&lt;style type=&quot;text/css&quot;&gt;&#xa;&lt;!--&#xa;.style1 {&#xa;&#x9;font-size: 16px;&#xa;&#x9;font-weight: bold;&#xa;}&#xa;--&gt;&#xa;&lt;/style&gt;&#xa;&lt;/head&gt;&#xa;&lt;body&gt;&#xa;&lt;table width=&quot;709&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td colspan=&quot;3&quot;&gt;&lt;p class=&quot;style1&quot;&gt;Para Pengembang TeaLinuxOS 3.0 &#x2013; White Tea&lt;/p&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td colspan=&quot;3&quot;&gt;&lt;hr&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;&lt;td width=&quot;283&quot;&gt;&lt;p&gt;&lt;strong&gt;Pimpinan Proyek : Masas Dani&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td width=&quot;283&quot;&gt;&lt;p&gt;&lt;strong&gt;Packaging, Kernel, Quality Testing &lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&#xa;    &lt;td width=&quot;220&quot;&gt;&lt;p&gt;&lt;strong&gt;Artwork &lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&#xa;    &lt;td width=&quot;200&quot;&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Eligi Moniz Do Rego&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Devryan Bayu&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Cahyo Dwi P&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Chaerul Umam&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Laily  Rachmawati&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Muhammad Irfan&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Mauren Fitri Irma Defega&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Rini Prasetyawati&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Ikhlas  Setya Maulana&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Theodorus Dompas&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;p&gt;&lt;strong&gt;Software &lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;p&gt;&lt;strong&gt;Documentation &amp;amp; Publishing&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;p&gt;&lt;strong&gt;Distribution&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Faris Dega Ramadhan&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Retno  Ika Safitri&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;  &lt;a href=&quot;#&quot;&gt;M Ardyansyah Prahatta&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Ismono  Hadi&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Wahyu Asyari Muntoha&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;M  Syaiqul Anam&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Nafis Khoirul Huda&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Aditya Maulana&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;M Nurul Hidayat&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Rendy Amdani&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Ridho Bayu&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Risky Wisnu Saputra&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&lt;ul&gt;&#xa;      &lt;li&gt; &lt;a href=&quot;#&quot;&gt;Aditya  Kris Ananda&lt;/a&gt;&lt;/li&gt;&#xa;    &lt;/ul&gt;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;    &lt;td&gt;&amp;nbsp;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;  &lt;tr&gt;&#xa;    &lt;td colspan=&quot;3&quot;&gt;&lt;p&gt;Technical Support : DOSCOM  &lt;a href=&quot;http://www.doscom.org&quot;&gt;(http://www.doscom.org)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&#xa;  &lt;/tr&gt;&#xa;&lt;/table&gt;&#xa;&lt;/body&gt;&#xa;&lt;/html&gt;"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
